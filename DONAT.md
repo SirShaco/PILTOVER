@@ -20,7 +20,7 @@
 # Способы оплаты:
 - **[Qiwi](https://qiwi.com/)**
 - **[WebMoney](https://www.webmoney.ru/rus/)**
-- **[Yandex Money](https://money.yandex.ru)**
+- **[Yandex Money](https://www.webmoney.ru/rus/)**
 - **Банковский перевод**- при переводе на карту, в подрарок вы получите 5000▸Pp (при покупке от 80 рублей)
 <br> Иными платформами проект PILTOVER **НЕ ПОЛЬЗУЕТСЯ!**
 
