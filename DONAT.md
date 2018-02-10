@@ -20,6 +20,7 @@
 
 # Способы оплаты:
 - **[Qiwi](https://qiwi.com/)**
+- **[PayPal](https://www.paypal.com)**
 - **[WebMoney](https://www.webmoney.ru/rus/)**
 - **[Yandex Money](https://money.yandex.ru/actions)**
 - **Банковский перевод**- при переводе на карту, в подарок вы получите 7000▸Pp (при покупке от 80 рублей)
