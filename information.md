@@ -2,7 +2,7 @@
 <br>**Содержание/быстрый переход**
 <br> **1** [Возможности и доступные команды](https://github.com/SirShaco/PILTOVER/blob/master/information.md#%D0%92%D0%BE%D0%B7%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B8-%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%BD%D1%8B%D0%B5-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B)
 <br> `1.1` [User](https://github.com/SirShaco/PILTOVER/blob/master/information.md#user)
-<br> `1.2` [Vip]https://github.com/SirShaco/PILTOVER/blob/master/information.md#vip)
+<br> `1.2` [Vip](https://github.com/SirShaco/PILTOVER/blob/master/information.md#vip)
 <br> `1.3` [Premium](https://github.com/SirShaco/PILTOVER/new/master?readme=1#premium)
 <br> `1.4` [Admin](https://github.com/SirShaco/PILTOVER/new/master?readme=1#admin)
 <br> `1.5` [SuperAdmin](https://github.com/SirShaco/PILTOVER/new/master?readme=1#superadmin)
