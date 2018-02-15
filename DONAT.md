@@ -33,7 +33,7 @@
 - В течение 7 дней вы можете доплатить за более высокую привилегию 
 - Все донат услуги предоставляются навсегда 
 - ▸Pp(Piltover points)- официальая игровая волюта проекта PILTOVER 
-- За нарушение [правил](https://github.com/SirShaco/PILTOVER/blob/master/rule..) сервера вы можете получить выговор или лишиться привилегии 
+- За нарушение [правил](https://github.com/SirShaco/PILTOVER/blob/master/rules_muder.md) сервера вы можете получить [выговор](https://github.com/SirShaco/PILTOVER/blob/master/information.md#%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-%D0%B2%D1%8B%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%BE%D0%B2) и/или лишиться привилегии 
 
  
 
