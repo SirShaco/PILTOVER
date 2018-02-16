@@ -28,6 +28,8 @@
 - !motd
 - !party
 - !rules
+- !free
+- !info
 2. "Чат"
 - !asay
 - !psay
@@ -53,6 +55,8 @@
 - !motd
 - !party
 - !rules
+- !free
+- !info
 2. "Чат"
 - !asay
 - !psay
@@ -82,6 +86,8 @@
 - !motd
 - !party
 - !rules
+- !free
+- !info
 2. "Чат"
 - !asay
 - !psay
@@ -120,6 +126,8 @@
 - !motd
 - !party
 - !rules
+- !free
+- !info
 2. "Чат"
 - !asay
 - !psay
@@ -186,6 +194,8 @@
 - !motd
 - !party
 - !rules
+- !free
+- !info
 2. "Чат"
 - !asay
 - !psay
