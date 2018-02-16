@@ -16,7 +16,8 @@
 <br> **3** [Система выговоров](https://github.com/SirShaco/PILTOVER/blob/master/information.md#%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-%D0%B2%D1%8B%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%BE%D0%B2)
 <br> `3.1` [Что такое Система выговоров?](https://github.com/SirShaco/PILTOVER/blob/master/information.md#%D0%A7%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-%D0%B2%D1%8B%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%BE%D0%B2)
 <br> `3.2` [Проявление выговоров](https://github.com/SirShaco/PILTOVER/blob/master/information.md#%D0%9F%D1%80%D0%BE%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D1%8B%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%BE%D0%B2)
-<br> **4** [Черно-розовые текстурки](https://github.com/SirShaco/PILTOVER/blob/master/information.md#%D0%A7%D0%B5%D1%80%D0%BD%D0%BE-%D1%80%D0%BE%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D1%83%D1%80%D1%8B)
+<br> **4** [Бесплатные Pp]
+<br> **5** [Черно-розовые текстурки](https://github.com/SirShaco/PILTOVER/blob/master/information.md#%D0%A7%D0%B5%D1%80%D0%BD%D0%BE-%D1%80%D0%BE%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D1%83%D1%80%D1%8B)
 # Возможности и доступные команды
 ## User
 
@@ -297,9 +298,11 @@
 # Как получить бесплатные Pp?
 <br> Есть пару способов получить беслатные поинты, ниже приведены все возможные способы.
 **Способ 1** 
-<br> Подписаться на [группу в вк](https://vk.com/piltoverim). За это вы получите **1000 Pp**
+<br> Сыграть на сервере 10 минут. За это вы получите **300 Pp**
 **Способ 2** 
-<br> Подарить подарок создателю в вк. За каждый подарок вы получите **400 Pp**
+<br> Подписаться на [группу в вк](https://vk.com/piltoverim). За это вы получите **1000 Pp**
+**Способ 3** 
+<br> Подарить подарок [основателю в вк](https://vk.com/oleg_volkov_ru). За каждый подарок вы получите **500 Pp**
 <br> **Обязательно, перед тем как отправлять подарок, поставте галочку возле "Показывать текст и моё имя только получателю"!**
 
 # Черно-розовые текстуры
