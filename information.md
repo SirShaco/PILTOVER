@@ -29,17 +29,15 @@
 - !motd
 - !party
 - !rules
-- !free
-- !info
 2. "Чат"
 - !asay
-- !psay
-- !thetime
+3. "Другое"
+-!thetime
 
 **Команды(Другое)**
 - !rtv
 
-**ПоинтШоп**
+**PontShop2**
 - Доступ к предметам для игроков
 
 **XGUI**
@@ -56,19 +54,20 @@
 - !motd
 - !party
 - !rules
-- !free
-- !info
 2. "Чат"
 - !asay
 - !psay
-- !gag
-- !mute
+- !pgag
+- !pmute
+3. "Другое"
 - !thetime
+- !version
+- !help
 
 **Команды(Другое)**
 - !rtv
 
-**ПоинтШоп**
+**PontShop2**
 - Доступ к предметам для игроков
 - Доступ к предметам для Vip ![VIP](https://pp.userapi.com/c834100/v834100583/b7204/7EaWBG6-2Ds.jpg)
 
@@ -87,28 +86,28 @@
 - !motd
 - !party
 - !rules
-- !free
-- !info
 2. "Чат"
 - !asay
 - !psay
-- !gag
+- !tgag
 - !gimp
-- !mute
+- !tmute
+3. "Другое"
 - !thetime
-3. "Утилиты"
+- !version
+- !help
+- !who
+4. "Утилиты"
 - !ban
 - !kick
-- !version
-- !who
-4. "Веселье"
+5. "Веселье"
 - !slap
 - !slay
 
 **Команды(Другое)**
 - !rtv
 
-**ПоинтШоп**
+**PontShop2**
 - Доступ к предметам для игроков
 - Доступ к предметам для Vip ![VIP](https://pp.userapi.com/c834100/v834100583/b7204/7EaWBG6-2Ds.jpg)
 
@@ -127,35 +126,37 @@
 - !motd
 - !party
 - !rules
-- !free
-- !info
 2. "Чат"
+- !csay
 - !asay
 - !psay
-- !gag
+- !tsay
+- !tgag
 - !gimp
-- !mute
-- !thetime
+- !tmute
 3. "Утилиты"
 - !ban
+- !banid
 - !unban
 - !kick
+- !stopsound
+4. "Другое"
+- !thetime
 - !version
+- !help
 - !who
-4. "Веселье"
+5. "Веселье"
 - !freeze
 - !ignite
 - !slap
 - !slay
-- !slay
 - !slaynr
 - !sslay
 - !strip
-5. "Голосование"
+6. "Голосование"
+- !mapvote
 - !stopvote
 - !vote
-6. "Смена карты"
-- !mapvote
 7. "Телепорт"
 - !bring
 - !goto
@@ -164,12 +165,12 @@
 
 **Команды(Другое)**
 - !rtv
-- !murder
+- mu_adminpanel   
 - !prmenu
 - ulxseasay
 
 
-**ПоинтШоп**
+**PontShop2**
 - Доступ к предметам для игроков
 - Доступ к предметам для Vip ![VIP](https://pp.userapi.com/c834100/v834100583/b7204/7EaWBG6-2Ds.jpg)
 - Доступ к предметам для Admin ![VIP](https://pp.userapi.com/c834300/v834300299/b70b5/xsZmI1MnXqA.jpg)
@@ -195,22 +196,26 @@
 - !motd
 - !party
 - !rules
-- !free
-- !info
 2. "Чат"
 - !asay
 - !psay
+- !tsay
+- !csay
 - !gag
 - !gimp
 - !mute
-- !thetime
 3. "Утилиты"
 - !ban
+- !banid
 - !unban
 - !kick
-- !version
 - !who
-4. "Веселье"
+4. "Другое"
+- !thetime
+- !version
+- !help
+- !who
+5. "Веселье"
 - !blind
 - !freeze
 - !ignite
@@ -224,11 +229,12 @@
 - !slay
 - !sslay
 - !strip
-5. "Голосование"
+- !unigniteall
+- !whip
+6. "Голосование"
+- !mapvote
 - !stopvote
 - !vote
-6. "Смена карты"
-- !mapvote
 7. "Телепорт"
 - !bring
 - !goto
@@ -242,10 +248,11 @@
 - !prmenu
 - ulxseasay
 
-**ПоинтШоп**
+**PontShop2**
 - Доступ к предметам для игроков
 - Доступ к предметам для Vip ![VIP](https://pp.userapi.com/c834100/v834100583/b7204/7EaWBG6-2Ds.jpg)
 - Доступ к предметам для Admin ![VIP](https://pp.userapi.com/c834300/v834300299/b70b5/xsZmI1MnXqA.jpg)
+- Доступ к предметам для SuperAdmin
 
 **XGUI**
 - Клиентские настройки XGUI
@@ -258,8 +265,7 @@
 - Заглушить игрока 
 - Просмотреть профиль игрока
 - Наблюдать
-- Переместить в наблюдатели
-- Сделать убийцей в следующем раунде 
+- Переместить в наблюдатели 
 
 **Другое** 
 - Вомозможность видить никнеймы в наблюдателях
